@@ -1,0 +1,15 @@
+node_modules
+package-lock.json
+build
+coverage
+.vscode
+.DS_STORE
+.env
+tmp
+
+# The development sqlite file
+database/*.sqlite
+
+# VSCode & Webstorm history directories
+.history
+.idea
